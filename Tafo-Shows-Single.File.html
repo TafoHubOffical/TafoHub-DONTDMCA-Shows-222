@@ -56,13 +56,11 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
 .actionBtn{margin-top:24px;padding:14px;width:100%;border:1px solid rgba(100,150,255,0.3);background:transparent;color:rgba(200,220,255,0.8);cursor:pointer;border-radius:3px;font-family:'Orbitron',sans-serif;font-size:12px;letter-spacing:3px;text-transform:uppercase;transition:all 0.3s}
 .actionBtn:hover{background:#fff;color:#000;border-color:#fff}
 
-/* Theater View Container */
 #theaterMode{position:fixed;inset:0;background:#000;z-index:200;display:none;opacity:0;transition:opacity 0.5s ease;flex-direction:column;justify-content:center;align-items:center}
 #theaterMode.active{display:flex;opacity:1}
 #theaterMode iframe{width:90%;height:80%;border:2px solid rgba(100,150,255,0.2);box-shadow:0 0 50px rgba(0,0,0,1);border-radius:8px;transform:scale(0.85);transition:transform 0.5s cubic-bezier(0.23, 1, 0.32, 1)}
 #theaterMode.active iframe{transform:scale(1)}
 
-/* Modern X Button */
 .closeX{position:absolute;top:30px;right:40px;width:50px;height:50px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.2);color:#fff;border-radius:50%;cursor:pointer;display:flex;justify-content:center;align-items:center;font-family:'Orbitron',sans-serif;font-size:20px;transition:all 0.3s;z-index:210}
 .closeX:hover{background:#fff;color:#000;transform:rotate(90deg);box-shadow:0 0 20px #fff}
 
@@ -77,7 +75,7 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
 <div class="mainContainer">
   <div id="box1" class="boxContainer"><div class="imgWrap"><img src="https://drive.google.com/thumbnail?id=12enL_F71tGO-fXO41zA3YV1-aq3pikpy&sz=w1000"><div class="imgOverlay"><span>View Seasons</span></div></div><div class="boxTitle">Stranger Things</div></div>
   <div id="box2" class="boxContainer"><div class="imgWrap"><img src="https://drive.google.com/thumbnail?id=19cgiEx3W0uhgTE-tchHmy61lhQAWvUu4&sz=w1000"><div class="imgOverlay"><span>View Seasons</span></div></div><div class="boxTitle">It: Welcome To Derry</div></div>
-  <div id="box3" class="boxContainer"><div class="imgWrap"><img src="https://drive.google.com/thumbnail?id=1xVdSCb88qQ876FDs7XBSMbFhiMYLhPji&sz=w1000"><div class="imgOverlay"><span>View Seasons</span></div></div><div class="boxTitle">Jujutsu Kaisen</div></div>
+  <div id="box3" class="boxContainer"><div class="imgWrap"><img src="https://raw.githubusercontent.com/TafoHubOffical/TafoHub-DONTDMCA-MovieCover-222/refs/heads/main/Jujutsu%20kaisen%20Season%203%20The%20Culling%20Games.jpeg"><div class="imgOverlay"><span>View Seasons</span></div></div><div class="boxTitle">Jujutsu Kaisen</div></div>
 </div>
 
 <div id="episodeOverlay" class="overlay">
@@ -100,15 +98,13 @@ let currentShowData=null,currentShowName="";
 
 const stData=[
   {seasonName:"Season 5",poster:"https://drive.google.com/thumbnail?id=12enL_F71tGO-fXO41zA3YV1-aq3pikpy&sz=w1000",episodes:[{title:"The Crawl",link:"https://drive.google.com/file/d/1c56jdsr-FC87qGVfZATOU4HNcA2cpLh/view"},{title:"The Vanishing of Holly Wheeler",link:"https://drive.google.com/file/d/12ttGGMfSo_Tv3iBZN2kEZJGOFmFJNii8/view"},{title:"The Turnbow Trap",link:"https://drive.google.com/file/d/1RvrqxoCClsWHqJAv_Qegrp36RnsKvHH5/view"},{title:"Sorcerer",link:"https://drive.google.com/file/d/1ptTP0L34yBOtqvXHqsDbSjIGAuA3DXwW/view"},{title:"Shock Jock",link:"https://drive.google.com/file/d/1KUHKdouvdfiZhaAzhYKV1oiHpvPyeQ0I/view"},{title:"Escape from Camazotz",link:"https://drive.google.com/file/d/1McrBSgcPJjY4EIQuEic94TZdNg0v4eNh/view"},{title:"The Bridge",link:"https://drive.google.com/file/d/1LccPcnp68YdyJ7q44Mbc6PgVqsfpCl56/view"},{title:"The Rightside Up",link:"https://drive.google.com/file/d/14EyEJoqw67ttQIuWLaHwdc8Y6yjyyj43/view"}]},
-  {seasonName:"Season 3",poster:"https://drive.google.com/thumbnail?id=155v7sFRco_tV2anr57g7EgB_vYJ-hawp&sz=w1000",episodes:[{title:"Episode 1",link:"#"},{title:"Episode 2",link:"#"},{title:"Episode 3",link:"#"},{title:"Episode 4",link:"#"},{title:"Episode 5",link:"#"},{title:"Episode 6",link:"#"},{title:"Episode 7",link:"#"},{title:"Episode 8",link:"#"}]},
-  {seasonName:"Season 2",poster:"https://drive.google.com/thumbnail?id=1aHunXWe6lejznFm6eEMhoAQB9Nwu566a&sz=w1000",episodes:[{title:"Madmax",link:"https://drive.google.com/file/d/1c6WsCz2cw0ru9WUaPYF99AUd1Fnjgg08/view"},{title:"Trick or Treat, Freak",link:"https://drive.google.com/file/d/1nVPWTh8cXa1THTA4-Iy00USuz8p6IFuy/view"},{title:"The Pollywog",link:"https://drive.google.com/file/d/1ogwvHlAQchs0SnNt4kxVAbTTH7gN3Xc_/view"},{title:"Will the Wise",link:"https://drive.google.com/file/d/1QlHQxIHJ9_bHxX8X3Y5q8yCOyJGz-FSC/view"},{title:"Dig Dug",link:"https://drive.google.com/file/d/1EbkNAPMz9-1zN1kfXc4lV3V0gQy-EImP/view"},{title:"The Spy",link:"https://drive.google.com/file/d/1q8W5qjN3kgStCHTKjRIhFIvOFzOKN370/view"},{title:"The Lost Sister",link:"https://drive.google.com/file/d/1Qw65bZ7YxlaSXaPdKy2T5RJZYlFinvE0/view"},{title:"The Mind Flayer",link:"https://drive.google.com/file/d/1HsIsNGnLTn6VVqlrlMOw__w05rD54U0p/view"},{title:"The Gate",link:"https://drive.google.com/file/d/1PvUqSyv4Q34PW40q0lX_dAUzqccmym67/view"}]},
-  {seasonName:"Season 1",poster:"https://drive.google.com/thumbnail?id=1MQYA-6QnedGlLiHHyp7R0jY05-q4OAMt&sz=w1000",episodes:[{title:"The Vanishing of Will Byers",link:"https://drive.google.com/file/d/1QyHXXt1T5elfiYmpweIdcHW02PMj19nS/view"},{title:"The Weirdo on Maple Street",link:"https://drive.google.com/file/d/1vbRvESNCzV8HF7ev0SzcUtKfeFGAkNWP/view"},{title:"Holly, Jolly",link:"https://drive.google.com/file/d/1M6atar76MDW2yciiT_GABCCKjcVSd0Wk/view"},{title:"The Body",link:"https://drive.google.com/file/d/1ZgJ56lGtib0MpAp0inNe4YB3Ci51mymw/view"},{title:"The Flea and the Acrobat",link:"https://drive.google.com/file/d/1hjV-vs5daW5eBfHjqdVyxEsLKhIWLhj0/view"},{title:"The Monster",link:"https://drive.google.com/file/d/1n_lQby-VBJ_cwHVnajG_DpeeUspbSwR/view"},{title:"The Bathtub",link:"https://drive.google.com/file/d/1krSBXU1MkAHpGL8xWViSvNqnU6tDGVv8/view"},{title:"The Upside Down",link:"https://drive.google.com/file/d/1rswLAydoepJc3TXbqxt2uJG5MYwqQcKc/view"}]}
+  {seasonName:"Season 3",poster:"https://drive.google.com/thumbnail?id=155v7sFRco_tV2anr57g7EgB_vYJ-hawp&sz=w1000",episodes:[{title:"Episode 1",link:"#"},{title:"Episode 2",link:"#"},{title:"Episode 3",link:"#"},{title:"Episode 4",link:"#"},{title:"Episode 5",link:"#"},{title:"Episode 6",link:"#"},{title:"Episode 7",link:"#"},{title:"Episode 8",link:"#"}]}
 ];
 
 const derryData=[{seasonName:"Season 1",poster:"https://drive.google.com/thumbnail?id=19cgiEx3W0uhgTE-tchHmy61lhQAWvUu4&sz=w1000",episodes:[{title:"The Pilot",link:"https://drive.google.com/file/d/1DcKPBEtUK6CQB0ln04TvKKMbwPRaSKXy/view"},{title:"The Thing In The Dark",link:"https://drive.google.com/file/d/145V4hGW5wG2Gw_M5GKEoix69juIpCqFG/view"},{title:"Now You See It",link:"https://drive.google.com/file/d/10X1TKNRnHVizernInA9GOP5TZVMStlty/view"},{title:"The Great Swirling Apparatus of Our Planet's Function",link:"https://drive.google.com/file/d/1HSZQbc_Kb1PfUiOr23BkgLSwZs43QAWD/view"},{title:"29 Neibolt Street",link:"https://drive.google.com/file/d/1u5XYCISOVu0KZ0D9AvsO4RbKxXOCyUzc/view"},{title:"In The Name Of The Father",link:"https://drive.google.com/file/d/1ua9j2JUuTlGtQ2Gd6AvlPR2zenm2U0LP/view"},{title:"The Black Spot",link:"https://drive.google.com/file/d/13488v45i6Wpnb8t9ZRZ0iVYRXnuQQDl6/view"},{title:"Winter Fire",link:"https://drive.google.com/file/d/1tcl6l2R9z-vcxxlgS4ZvW9KCpHRbJLAc/view"}]}];
 
 const jjkData=[
-  {seasonName:"Season 3",poster:"https://drive.google.com/thumbnail?id=1xVdSCb88qQ876FDs7XBSMbFhiMYLhPji&sz=w1000",episodes:[
+  {seasonName:"jujutsu kaisen season 3 The Culling Games Part 1",poster:"https://raw.githubusercontent.com/TafoHubOffical/TafoHub-DONTDMCA-MovieCover-222/refs/heads/main/Jujutsu%20kaisen%20Season%203%20The%20Culling%20Games.jpeg",episodes:[
     {title:"EXECUTION",link:"https://drive.google.com/file/d/1AO49Aw86E_hUWJgHDdF0QTotYNIae-xP/view"},
     {title:"ONE MORE TIME",link:"https://drive.google.com/file/d/1hTccB7qc18zWnl3pY-kWyg_VDvQyTyQ2/view"},
     {title:"ABOUT THE CULLING GAME",link:"https://drive.google.com/file/d/1Y2w192o4Vc9xrq7zSeDF4IO2QEliEUzx/view"},
@@ -144,24 +140,15 @@ function showEpisodes(name,s){
   s.episodes.forEach((ep,i)=>{
     const b=document.createElement("button");b.className="menuBtn";
     b.innerHTML=`<span class="epNum">E${String(i+1).padStart(2,"0")}</span>${ep.title}`;
-    b.onclick=()=>{
-        if(ep.link==="#")return;
-        vFrame.src=repairLink(ep.link);
-        theater.classList.add("active");
-    };
+    b.onclick=()=>{if(ep.link==="#")return;vFrame.src=repairLink(ep.link);theater.classList.add("active")};
     menuList.appendChild(b);
   });
 }
 
-exitTheater.onclick=()=>{
-    theater.classList.remove("active");
-    setTimeout(()=>{vFrame.src=""},500); // Clear source after fade out
-};
-
+exitTheater.onclick=()=>{theater.classList.remove("active");setTimeout(()=>{vFrame.src=""},500)};
 document.getElementById("box1").onclick=()=>showSeasons("Stranger Things",stData);
 document.getElementById("box2").onclick=()=>showSeasons("It: Welcome To Derry",derryData);
 document.getElementById("box3").onclick=()=>showSeasons("Jujutsu Kaisen",jjkData);
-
 closeBtn.onclick=()=>{if(closeBtn.innerText==="← Back"){showSeasons(currentShowName,currentShowData)}else{overlay.classList.remove("show");setTimeout(()=>overlay.style.display="none",300)}};
 
 for(let i=0;i<25;i++){const p=document.createElement("div");p.className="particle";p.style.cssText=`left:${Math.random()*100}vw;bottom:0;animation-duration:${8+Math.random()*12}s;animation-delay:${Math.random()*10}s`;document.body.appendChild(p)}
