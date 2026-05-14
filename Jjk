@@ -1,0 +1,20 @@
+{
+  "seriesTitle": "Jujutsu Kaisen",
+  "seasonName": "Season 3",
+  "posterUrl": "https://drive.google.com/thumbnail?id=1xVdSCb88qQ876FDs7XBSMbFhiMYLhPji&sz=w1000",
+  "episodes": [
+    { "number": 1, "title": "Execution", "link": "https://drive.google.com/file/d/1AO49Aw86E_hUWJgHDdF0QTotYNIae-xP/view?usp=drivesdk" },
+    { "number": 2, "title": "One More Time", "link": "TEMP_LINK" },
+    { "number": 3, "title": "About the Culling Game", "link": "https://drive.google.com/file/d/1hTccB7qc18zWnl3pY-kWyg_VDvQyTyQ2/view?usp=drivesdk" },
+    { "number": 4, "title": "Perfect Preparation", "link": "https://drive.google.com/file/d/1m19Dz8eepClzgR20e5ngBZ7o8_5zMlNj/view?usp=drivesdk" },
+    { "number": 5, "title": "Fever", "link": "https://drive.google.com/file/d/1rdESNiJWjpx44AOO74lQYsH5_dHxSxKS/view?usp=drivesdk" },
+    { "number": 6, "title": "Tokyo No. 1 Colony, Part 1", "link": "https://drive.google.com/file/d/1_72reNBQT3KuzI8IK-YkWwH_zWiAmS9A/view?usp=drivesdk" },
+    { "number": 7, "title": "Tokyo No. 1 Colony, Part 2", "link": "https://drive.google.com/file/d/1UePF1bnQXItzmaqu2TtSPHslyHcPQSql/view?usp=drivesdk" },
+    { "number": 8, "title": "Tokyo No. 1 Colony, Part 3", "link": "https://drive.google.com/file/d/1PhWuozLbzeDDLk7mnXbPbOgqQgL8Uj4O/view?usp=drivesdk" },
+    { "number": 9, "title": "Tokyo No. 1 Colony, Part 4", "link": "https://drive.google.com/file/d/1l6u23J_NgfvzuOFQjWHS_gKUm7xAczrm/view?usp=drivesdk" },
+    { "number": 10, "title": "Tokyo Colony No. 1, Part 5", "link": "https://drive.google.com/file/d/1_flG13SPdg8uZPkO5-p0eX0D0vmmJxrs/view?usp=drivesdk" },
+    { "number": 11, "title": "Tokyo Colony No. 1, Part 6", "link": "https://drive.google.com/file/d/1EwPFPf0K3xFNmKNOWa0XE7H9vReELxWi/view?usp=drivesdk" },
+    { "number": 12, "title": "Sendai Colony", "link": "https://drive.google.com/file/d/1QiKYog2Bf40sWSQAzslVR6XaO0YE1NxR/view?usp=drivesdk" }
+  ]
+}
+
