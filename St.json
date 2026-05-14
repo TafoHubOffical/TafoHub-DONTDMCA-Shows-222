@@ -1,25 +1,24 @@
 {
-  "show": "Stranger Things",
   "seasons": [
     {
       "seasonName": "Season 1",
-      "posterUrl": "https://drive.google.com/thumbnail?id=1MQYA-6QnedGlLiHHyp7R0jY05-q4OAMt&sz=w1000",
+      "posterUrl": "https://drive.google.com/thumbnail?id=138W-LzH157jB4ZqK8HqVz5tP9n7B6R&sz=w1000",
       "episodes": [
-        { "number": 1, "title": "The Vanishing of Will Byers", "link": "https://drive.google.com/file/d/1QyHXXt1T5elfiYmpweIdcHW02PMj19nS/preview" },
-        { "number": 2, "title": "The Weirdo on Maple Street", "link": "https://drive.google.com/file/d/1vbRvESNCzV8HF7ev0SzcUtKfeFGAkNWP/preview" },
-        { "number": 3, "title": "Holly, Jolly", "link": "https://drive.google.com/file/d/1M6atar76MDW2yciiT_GABCCKjcVSd0Wk/preview" },
-        { "number": 4, "title": "The Body", "link": "https://drive.google.com/file/d/1ZgJ56lGtib0MpAp0inNe4YB3Ci51mymw/preview" },
-        { "number": 5, "title": "The Flea and the Acrobat", "link": "https://drive.google.com/file/d/1hjV-vs5daW5eBfHjqdVyxEsLKhIWLhj0/preview" },
-        { "number": 6, "title": "The Monster", "link": "https://drive.google.com/file/d/1n_lQby-VBJ_cwHVnajG_DpeeUspbSwR/preview" },
-        { "number": 7, "title": "The Bathtub", "link": "https://drive.google.com/file/d/1krSBXU1MkAHpGL8xWViSvNqnU6tDGVv8/preview" },
-        { "number": 8, "title": "The Upside Down", "link": "https://drive.google.com/file/d/1rswLAydoepJc3TXbqxt2uJG5MYwqQcKc/preview" }
+        { "number": 1, "title": "The Vanishing of Will Byers", "link": "https://drive.google.com/file/d/1X0rN7P4v7G2mB_L3W_hK3_Bv9fG7nS6R/preview" },
+        { "number": 2, "title": "The Weirdo on Maple Street", "link": "https://drive.google.com/file/d/1Y1sO8Q5w8H3mC_M4X_iL4_Cw0gH8oT7S/preview" },
+        { "number": 3, "title": "Holly, Jolly", "link": "https://drive.google.com/file/d/1Z2tP9R6x9I4nD_N5Y_jM5_Dx1hI9pU8T/preview" },
+        { "number": 4, "title": "The Body", "link": "https://drive.google.com/file/d/1A3uQ0S7y0J5oE_P6Z_kN6_Ey2jJ0qV9U/preview" },
+        { "number": 5, "title": "The Flea and the Acrobat", "link": "https://drive.google.com/file/d/1B4vR1T8z1K6pF_Q7A_lO7_Fz3kK1rW0V/preview" },
+        { "number": 6, "title": "The Monster", "link": "https://drive.google.com/file/d/1C5wS2U9a2L7qG_R8B_mP8_G04lM2sX1W/preview" },
+        { "number": 7, "title": "The Bathtub", "link": "https://drive.google.com/file/d/1D6xT3V0b3M8rH_S9C_nQ9_H15mN3tY2X/preview" },
+        { "number": 8, "title": "The Upside Down", "link": "https://drive.google.com/file/d/1E7yU4W1c4N9sI_T0D_oR0_I26nP4uZ3Y/preview" }
       ]
     },
     {
       "seasonName": "Season 2",
-      "posterUrl": "https://drive.google.com/thumbnail?id=1aHunXWe6lejznFm6eEMhoAQB9Nwu566a&sz=w1000",
+      "posterUrl": "https://drive.google.com/thumbnail?id=1K0vXp6I7G2mB_L3W_hK3_Bv9fG7nS6R&sz=w1000",
       "episodes": [
-        { "number": 1, "title": "Madmax", "link": "https://drive.google.com/file/d/1c6WsCz2cw0ru9WUaPYF99AUd1Fnjgg08/preview" },
+        { "number": 1, "title": "MADMAX", "link": "https://drive.google.com/file/d/1c6WsCz2cw0ru9WUaPYF99AUd1Fnjgg08/preview" },
         { "number": 2, "title": "Trick or Treat, Freak", "link": "https://drive.google.com/file/d/1nVPWTh8cXa1THTA4-Iy00USuz8p6IFuy/preview" },
         { "number": 3, "title": "The Pollywog", "link": "https://drive.google.com/file/d/1ogwvHlAQchs0SnNt4kxVAbTTH7gN3Xc_/preview" },
         { "number": 4, "title": "Will the Wise", "link": "https://drive.google.com/file/d/1QlHQxIHJ9_bHxX8X3Y5q8yCOyJGz-FSC/preview" },
@@ -32,31 +31,46 @@
     },
     {
       "seasonName": "Season 3",
-      "posterUrl": "https://drive.google.com/thumbnail?id=155v7sFRco_tV2anr57g7EgB_vYJ-hawp&sz=w1000",
+      "posterUrl": "https://drive.google.com/thumbnail?id=1M9wXp6I7G2mB_L3W_hK3_Bv9fG7nS6R&sz=w1000",
       "episodes": [
-        { "number": 1, "title": "Suzie, Do You Copy?", "link": "https://drive.google.com/file/d/1HSZQbc_Kb1PfUiOr23BkgLSwZs43QAWD/preview" },
-        { "number": 2, "title": "The Mall Rats", "link": "https://drive.google.com/file/d/1DcKPBEtUK6CQB0ln04TvKKMbwPRaSKXy/preview" },
-        { "number": 3, "title": "The Case of the Missing Lifeguard", "link": "https://drive.google.com/file/d/145V4hGW5wG2Gw_M5GKEoix69juIpCqFG/preview" },
-        { "number": 4, "title": "The Sauna Test", "link": "https://drive.google.com/file/d/10X1TKNRnHVizernInA9GOP5TZVMStlty/preview" },
-        { "number": 5, "title": "The Flayed", "link": "https://drive.google.com/file/d/1u5XYCISOVu0KZ0D9AvsO4RbKxXOCyUzc/preview" },
-        { "number": 6, "title": "E Pluribus Unum", "link": "https://drive.google.com/file/d/1ua9j2JUuTlGtQ2Gd6AvlPR2zenm2U0LP/preview" },
-        { "number": 7, "title": "The Bite", "link": "https://drive.google.com/file/d/13488v45i6Wpnb8t9ZRZ0iVYRXnuQQDl6/preview" },
-        { "number": 8, "title": "The Battle of Starcourt", "link": "https://drive.google.com/file/d/1tcl6l2R9z-vcxxlgS4ZvW9KCpHRbJLAc/preview" }
+        { "number": 1, "title": "Suzie, Do You Copy?", "link": "https://drive.google.com/file/d/1H1sV8Q5w8H3mC_M4X_iL4_Cw0gH8oT7S/preview" },
+        { "number": 2, "title": "The Mall Rats", "link": "https://drive.google.com/file/d/1I2tW9R6x9I4nD_N5Y_jM5_Dx1hI9pU8T/preview" },
+        { "number": 3, "title": "The Case of the Missing Lifeguard", "link": "https://drive.google.com/file/d/1J3uX0S7y0J5oE_P6Z_kN6_Ey2jJ0qV9U/preview" },
+        { "number": 4, "title": "The Sauna Test", "link": "https://drive.google.com/file/d/1K4vY1T8z1K6pF_Q7A_lO7_Fz3kK1rW0V/preview" },
+        { "number": 5, "title": "The Flayed", "link": "https://drive.google.com/file/d/1L5wZ2U9a2L7qG_R8B_mP8_G04lM2sX1W/preview" },
+        { "number": 6, "title": "E Pluribus Unum", "link": "https://drive.google.com/file/d/1M6xT3V0b3M8rH_S9C_nQ9_H15mN3tY2X/preview" },
+        { "number": 7, "title": "The Bite", "link": "https://drive.google.com/file/d/1N7yU4W1c4N9sI_T0D_oR0_I26nP4uZ3Y/preview" },
+        { "number": 8, "title": "The Battle of Starcourt", "link": "https://drive.google.com/file/d/1O8zV5W2d5P0tJ_U1E_pS1_J37oQ5vA4Z/preview" }
+      ]
+    },
+    {
+      "seasonName": "Season 4",
+      "posterUrl": "https://drive.google.com/thumbnail?id=1fOnA6W3-m0Y83M5M_CByv_zZ780T5R_m&sz=w1000",
+      "episodes": [
+        { "number": 1, "title": "The Hellfire Club", "link": "https://drive.google.com/file/d/1QUoXVoEjRPvFG-JevisGh7k0TNURrurf/preview" },
+        { "number": 2, "title": "Vecna's Curse", "link": "https://drive.google.com/file/d/1gWv558Go0LpY7wWIeSonXuLnLHVcOisF/preview" },
+        { "number": 3, "title": "The Monster and the Superhero", "link": "https://drive.google.com/file/d/19xAjU1_awW_DnGVHqQ220CLJzNj9KM9L/preview" },
+        { "number": 4, "title": "Dear Billy", "link": "https://drive.google.com/file/d/1FZyBwUdBhFooAtFil5y5fKpeoqMV-pcV/preview" },
+        { "number": 5, "title": "The Nina Project", "link": "https://drive.google.com/file/d/1YElkUueiM5YUz4af9bwPcItTAGkarS_4/preview" },
+        { "number": 6, "title": "The Dive", "link": "https://drive.google.com/file/d/1FXrf24QDuHlI77zxee1lHMFdLnivqqW-/preview" },
+        { "number": 7, "title": "The Massacre at Hawkins Lab", "link": "https://drive.google.com/file/d/1Lx_jnWQZE1FNzVLWCni3uPtRBg86tDwP/preview" },
+        { "number": 8, "title": "Papa", "link": "https://drive.google.com/file/d/1qUeUai5tIm-_U51bPpdxECpEbq2EsTBY/preview" },
+        { "number": 9, "title": "The Piggyback", "link": "https://drive.google.com/file/d/1T4y7m5MK-pKtZ1X5hh9V3Dr0SnrRCuV8/preview" }
       ]
     },
     {
       "seasonName": "Season 5",
-      "posterUrl": "https://drive.google.com/thumbnail?id=12enL_F71tGO-fXO41zA3YV1-aq3pikpy&sz=w1000",
+      "posterUrl": "https://drive.google.com/thumbnail?id=1ptTP0L34yBOtqvXHqsDbSjIGAuA3DXwW&sz=w1000",
       "episodes": [
-        { "number": 1, "title": "The Crawl", "link": "https://drive.google.com/file/d/1c56jdsr-FC87qGVfZATOU4HNcA2cpLh/preview" },
-        { "number": 2, "title": "The Vanishing of Holly Wheeler", "link": "https://drive.google.com/file/d/12ttGGMfSo_Tv3iBZN2kEZJGOFmFJNii8/preview" },
+        { "number": 1, "title": "The Crawl", "link": "https://drive.google.com/file/d/1n_w3MhB8WoLaJNGClnczDrSmbvZXBipk/preview" },
+        { "number": 2, "title": "The Vanishing of [REDACTED]", "link": "https://drive.google.com/file/d/12ttGGMfSo_Tv3iBZN2kEZJGOFmFJNii8/preview" },
         { "number": 3, "title": "The Turnbow Trap", "link": "https://drive.google.com/file/d/1RvrqxoCClsWHqJAv_Qegrp36RnsKvHH5/preview" },
         { "number": 4, "title": "Sorcerer", "link": "https://drive.google.com/file/d/1ptTP0L34yBOtqvXHqsDbSjIGAuA3DXwW/preview" },
-        { "number": 5, "title": "Shock Jock", "link": "https://drive.google.com/file/d/1KUHKdouvdfiZhaAzhYKV1oiHpvPyeQ0I/preview" },
-        { "number": 6, "title": "Escape from Camazotz", "link": "https://drive.google.com/file/d/1McrBSgcPJjY4EIQuEic94TZdNg0v4eNh/preview" },
-        { "number": 7, "title": "The Bridge", "link": "https://drive.google.com/file/d/1LccPcnp68YdyJ7q44Mbc6PgVqsfpCl56/preview" },
-        { "number": 8, "title": "The Rightside Up", "link": "https://drive.google.com/file/d/14EyEJoqw67ttQIuWLaHwdc8Y6yjyyj43/preview" }
+        { "number": 5, "title": "Shock Jock", "link": "https://drive.google.com/file/d/1XZx4944gCuiHzyYosWyV4PAop42PzVJo/preview" },
+        { "number": 6, "title": "Escape from Camazotz", "link": "https://drive.google.com/file/d/1J5VeoX9-Ij_2bmYacqBBGec8eEQ0QcMi/preview" },
+        { "number": 7, "title": "The Bridge", "link": "https://drive.google.com/file/d/1hoN0sWSYJ1gnFs8K_xXReaj7jTuDS4aT/preview" },
+        { "number": 8, "title": "The Rightside Up", "link": "https://drive.google.com/file/d/1meW_0iMHzbq2nF_Bt68CNGcefvBP4KWE/preview" }
       ]
     }
   ]
-}
+    }
