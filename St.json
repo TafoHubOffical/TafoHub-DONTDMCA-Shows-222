@@ -3,7 +3,7 @@
   "seasons": [
     {
       "seasonName": "Season 1",
-      "posterUrl": "https://drive.google.com/thumbnail?id=138W-LzH157jB4ZqK8HqVz5tP9n7B6R&sz=w1000",
+      "posterUrl": "https://drive.google.com/file/d/1MQYA-6QnedGlLiHHyp7R0jY05-q4OAMt/view?usp=drivesdk",
       "episodes": [
         { "number": 1, "title": "The Vanishing of Will Byers", "link": "https://drive.google.com/file/d/1X0rN7P4v7G2mB_L3W_hK3_Bv9fG7nS6R/preview" },
         { "number": 2, "title": "The Weirdo on Maple Street", "link": "https://drive.google.com/file/d/1Y1sO8Q5w8H3mC_M4X_iL4_Cw0gH8oT7S/preview" },
@@ -17,7 +17,7 @@
     },
     {
       "seasonName": "Season 2",
-      "posterUrl": "https://drive.google.com/thumbnail?id=1K0vXp6I7G2mB_L3W_hK3_Bv9fG7nS6R&sz=w1000",
+      "posterUrl": "https://drive.google.com/file/d/1aHunXWe6lejznFm6eEMhoAQB9Nwu566a/view?usp=drivesdk",
       "episodes": [
         { "number": 1, "title": "MADMAX", "link": "https://drive.google.com/file/d/1c6WsCz2cw0ru9WUaPYF99AUd1Fnjgg08/preview" },
         { "number": 2, "title": "Trick or Treat, Freak", "link": "https://drive.google.com/file/d/1nVPWTh8cXa1THTA4-Iy00USuz8p6IFuy/preview" },
@@ -32,7 +32,7 @@
     },
     {
       "seasonName": "Season 3",
-      "posterUrl": "https://drive.google.com/thumbnail?id=1M9wXp6I7G2mB_L3W_hK3_Bv9fG7nS6R&sz=w1000",
+      "posterUrl": "https://drive.google.com/file/d/155v7sFRco_tV2anr57g7EgB_vYJ-hawp/view?usp=drivesdk",
       "episodes": [
         { "number": 1, "title": "Suzie, Do You Copy?", "link": "https://drive.google.com/file/d/1H1sV8Q5w8H3mC_M4X_iL4_Cw0gH8oT7S/preview" },
         { "number": 2, "title": "The Mall Rats", "link": "https://drive.google.com/file/d/1I2tW9R6x9I4nD_N5Y_jM5_Dx1hI9pU8T/preview" },
@@ -46,7 +46,7 @@
     },
     {
       "seasonName": "Season 4",
-      "posterUrl": "https://drive.google.com/thumbnail?id=1fOnA6W3-m0Y83M5M_CByv_zZ780T5R_m&sz=w1000",
+      "posterUrl": "https://drive.google.com/file/d/1DnRDjk_r_cjnU5dkjNXNwHXn031N8qqH/view?usp=drivesdk",
       "episodes": [
         { "number": 1, "title": "The Hellfire Club", "link": "https://drive.google.com/file/d/1QUoXVoEjRPvFG-JevisGh7k0TNURrurf/preview" },
         { "number": 2, "title": "Vecna's Curse", "link": "https://drive.google.com/file/d/1gWv558Go0LpY7wWIeSonXuLnLHVcOisF/preview" },
@@ -61,7 +61,7 @@
     },
     {
       "seasonName": "Season 5",
-      "posterUrl": "https://drive.google.com/thumbnail?id=1ptTP0L34yBOtqvXHqsDbSjIGAuA3DXwW&sz=w1000",
+      "posterUrl": "https://drive.google.com/file/d/12enL_F71tGO-fXO41zA3YV1-aq3pikpy/view?usp=drivesdk",
       "episodes": [
         { "number": 1, "title": "The Crawl", "link": "https://drive.google.com/file/d/1n_w3MhB8WoLaJNGClnczDrSmbvZXBipk/preview" },
         { "number": 2, "title": "The Vanishing of [REDACTED]", "link": "https://drive.google.com/file/d/12ttGGMfSo_Tv3iBZN2kEZJGOFmFJNii8/preview" },
