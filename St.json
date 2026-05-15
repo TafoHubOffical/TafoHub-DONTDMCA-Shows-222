@@ -1,4 +1,46 @@
-
+{
+  "seasonName": "Season 1",
+  "posterUrl": "https://drive.google.com/thumbnail?id=1MQYA-6QnedGlLiHHyp7R0jY05-q4OAMt&sz=w1000",
+  "episodes": [
+    { 
+      "number": 1, 
+      "title": "Chapter One: The Vanishing of Will Byers", 
+      "link": "https://drive.google.com/file/d/1QyHXXt1T5elfiYmpweIdcHW02PMj19nS/view?usp=drivesdk" 
+    },
+    { 
+      "number": 2, 
+      "title": "Chapter Two: The Weirdo on Maple Street", 
+      "link": "https://drive.google.com/file/d/1vbRvESNCzV8HF7ev0SzcUtKfeFGAkNWP/view?usp=drivesdk" 
+    },
+    { 
+      "number": 3, 
+      "title": "Chapter Three: Holly, Jolly", 
+      "link": "https://drive.google.com/file/d/1M6atar76MDW2yciiT_GABCCKjcVSd0Wk/view?usp=drivesdk" 
+    },
+    { 
+      "number": 4, 
+      "title": "Chapter Four: The Body", 
+      "link": "https://drive.google.com/file/d/1ZgJ56lGtib0MpAp0inNe4YB3Ci51mymw/view?usp=drivesdk" 
+    },
+    { 
+      "number": 5, 
+      "title": "Chapter Five: The Flea and the Acrobat", 
+      "link": "https://drive.google.com/file/d/1hjV-vs5daW5eBfHjqdVyxEsLKhIWLhj0/view?usp=drivesdk" 
+    },
+    { 
+      "number": 6, 
+      "title": "Chapter Six: The Monster", 
+      "link": "https://drive.google.com/file/d/1n_lQby-VBJ_cwHVnajG_DpeeUspbSwqR/view?usp=drivesdk" 
+    },
+    { 
+      "number": 7, 
+      "title": "Chapter Seven: The Bathtub", 
+      "link": "https://drive.google.com/file/d/1krSBXU1MkAHpGL8xWViSvNqnU6tDGVv8/view?usp=drivesdk" 
+    },
+    { 
+      "number": 8, 
+      "title": "Chapter Eight: The Upside Down", 
+      "link": "https://drive.google.com/file/d/1rswLAydoepJc3TXbqxt2uJG5MYwqQcKc/view?usp=drivesdk" 
   ]
 },
 {
